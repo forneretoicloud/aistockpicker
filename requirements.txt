@@ -8,4 +8,3 @@ requests
 python-dateutil
 pytz
 tradingview-ta>=3.3.0
-``
